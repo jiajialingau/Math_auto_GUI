@@ -52,7 +52,7 @@
             this.Plus.Name = "Plus";
             this.Plus.Size = new System.Drawing.Size(75, 74);
             this.Plus.TabIndex = 1;
-            this.Plus.Text = "Plus";
+            this.Plus.Text = "Addition\r\n";
             this.Plus.UseVisualStyleBackColor = true;
             this.Plus.Click += new System.EventHandler(this.Plus_Click);
             // 
