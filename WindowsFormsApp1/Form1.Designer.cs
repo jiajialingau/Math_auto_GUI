@@ -64,6 +64,7 @@
             this.subtraction.TabIndex = 1;
             this.subtraction.Text = "subtraction";
             this.subtraction.UseVisualStyleBackColor = true;
+            this.subtraction.Click += new System.EventHandler(this.subtraction_Click);
             // 
             // times
             // 
@@ -73,6 +74,7 @@
             this.times.TabIndex = 1;
             this.times.Text = "multiplication";
             this.times.UseVisualStyleBackColor = true;
+            this.times.Click += new System.EventHandler(this.times_Click);
             // 
             // division
             // 
@@ -82,6 +84,7 @@
             this.division.TabIndex = 1;
             this.division.Text = "division";
             this.division.UseVisualStyleBackColor = true;
+            this.division.Click += new System.EventHandler(this.division_Click);
             // 
             // Form1
             // 
